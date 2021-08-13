@@ -10,4 +10,6 @@ prueba
 ##How to Contribute
 This is a simple web project
 
+Please fork this repository
+
 2014 Git
